@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/minmax/__init__.py
+src/minmax/minmax.py
+src/tuanminmaxpackage.egg-info/PKG-INFO
+src/tuanminmaxpackage.egg-info/SOURCES.txt
+src/tuanminmaxpackage.egg-info/dependency_links.txt
+src/tuanminmaxpackage.egg-info/top_level.txt
